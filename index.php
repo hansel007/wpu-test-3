@@ -9,5 +9,8 @@
 <body>
     <h1>Hello world!</h1>
     <p>Membuat git remote<p>
+    <ul>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus doloribus, est nihil eum natus sed ratione magnam laboriosam reiciendis quia recusandae eaque placeat, odit error incidunt labore ex ea sint?</li>
+    </ul>
 </body>
 </html>
