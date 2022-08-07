@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello world!</h1>
+    <p>Membuat git remote<p>
 </body>
 </html>
